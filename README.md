@@ -1,6 +1,6 @@
 # utils
 
-Repository for utility functions
+Repository for functions
 
 ## Project Organization
 
